@@ -8,7 +8,7 @@ Github is used to help developers work on projects while keeping track of their 
 To install it, if using MacOS or Ubuntu, it already comes installed and you can confirm it using git -v.
 If on windows, click this https://git-scm.com/download/win and install, then confirm by using git -v.
 Next is you confirm that you have an account on github already registered.
-Send me your username to +211925352929 or +256786200025 and i will add you to the repository as a project collaborator.
+Send me your username my whatsapp and i will add you to the repository as a project collaborator.
 What you mainly need to know about git.
 - Several people can work on the same project but each person assigned with a different task or module.
 - To get the base code from the repository, just git pull https://github.com/dmarko1/jsgroup.git and it will make for you a folder with the current code in it.
